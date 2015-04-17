@@ -1,6 +1,8 @@
 # easyk8api
 encapsulating for the basic [k8s api](http://kubernetes.io/third_party/swagger-ui/#!/v1beta1/listNode)
-using Sendapi to send the k8s api
+
+using func Sendapi to send the k8s api
+
 examples:
 
     using the API  GET /api/v1beta1/minions 
